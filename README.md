@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQFUH23gCbi8vw/profile-displaybackgroundimage-shrink_350_1400/0/1688932981275?e=1696464000&v=beta&t=K9x9VeSdpkAUiiZ76ADP5YpczCpdGLRwXQtusO-KHCc)
 <h1 align="center">Hi 👋, I'm Raghu Dungala</h1>
-<h3 align="center">Passionate frontend developer</h3>
+<h3 align="center">Passionate Software Engineer</h3>
 <p>I am a Software Engineer, passionate about exploring the latest web development trends and technologies.I'm eager to connect with like-minded individuals and collaborate on crafting remarkable projects together! Let's team up and build something amazing! 👋</p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"></img>
 
